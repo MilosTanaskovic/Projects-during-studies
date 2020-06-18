@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rssxsl.xsl"?>
+	<rss version="2.0">
+		<channel>
+				<title>Welcome to DC SHOP!</title>
+				<description>The best models of cameras in one place! Intended to suit every pocket! Cameras, camera equipment, bags for cameras is just part of what we offer!</description>
+				<link>http://index.html</link>
+				<author>Danijela Nikitin</author>
+			<item>
+				<title>New model!!</title>
+				<description>We have new model of camera! This is amazing Nikon D750! Visit our site to read about this.</description>
+				<link>http://nikon.html</link>
+			</item>
+			<item>
+				<title>New model!!</title>
+				<description>We have new model of camera! This is amazing Canon PowerShot G1! Visit our site to read about this.</description>
+				<link>http://canon.html</link>
+			</item>
+			<item>
+				<title>New model!!</title>
+				<description>We have new model of camera! This is amazing Sony Alpha 6000! Visit our site to read about this.</description>
+				<link>http://sony.html</link>
+			</item>
+		</channel>
+	</rss>

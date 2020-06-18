@@ -1,0 +1,35 @@
+#meni{
+	float:left;
+	width:200px;
+	
+}
+#meni, #meni ul{
+	list-style-type:none;
+	padding:0px;
+	margin: 0px;
+}
+#meni li{
+	cursor:pointer;
+	
+	
+	
+}
+#meni li a{
+	text-decoration:none;
+}
+#meni>li>a{
+	padding:2px 10px;
+	font-weight:bold;
+}
+#meni li li{
+	cursor:auto;
+	border:0px;
+	padding: 0px 14px;
+	
+}
+#disclaimer,#into{
+	width:400px;
+}
+a:hover{
+	text-decoration:none;
+}
